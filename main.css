@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://d3e7bfg0h5jt4g.mrandmrssmith.com/images/1482x988/3619142-royal-davui-island-resort-royal-davui-island-fiji.jpg");
+
+}
+
+nav>ul>li{
+    display:inline-block;
+    font-weight:bold;
+    margin-right:70px;
+}
+
+nav>ul>li>a{
+    text-decoration:none;
+    color: black;
+}
+
+a:hover{
+    text-decoration:underline;
+    color:white;
+}

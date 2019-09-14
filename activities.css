@@ -1,0 +1,12 @@
+img{
+    width:700px;
+    height:300px;
+    border-radius:50px;
+    margin-bottom:100px;
+    margin-left:300px;
+}
+
+.act{
+    display:flex;
+    flex-direction:column;
+}
